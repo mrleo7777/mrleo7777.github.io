@@ -450,5 +450,17 @@ footer {
   outline: none; }
 
 .asingan{
-  padding-bottom: 100%;
+  margin-bottom: 60px;
+}
+
+.line {
+  border-width: 4px;
+  border-color: white;
+}
+
+.lmnhs{
+  margin-bottom: 250px;
+}
+.uc {
+  padding-left: 25px;
 }
