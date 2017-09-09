@@ -1,0 +1,44 @@
+body{
+	font-family: "Times New Roman", serif;
+}
+table, th, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table{
+	width: auto;
+}
+
+th, td{
+	padding: auto;
+	padding-left: 20px;
+}
+
+th{
+	width: 0px;
+	padding: auto;
+	padding-left: 0px;
+}
+h2.educb{
+	font-family: Arial;
+	font-style: normal;
+}
+h4{
+	line-height: 0px;
+}
+h4.sochead{
+	color: black;
+}
+p{
+	width: 50%;
+}
+.soclogo{
+	float: left;
+}
+#sochead{
+	display: inline-block;
+}
+
+#sochead .p{
+	margin-top: -5px;
+}
